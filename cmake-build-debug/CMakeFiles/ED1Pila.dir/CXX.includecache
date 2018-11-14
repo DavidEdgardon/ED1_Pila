@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ASUS/CLionProjects/ED1Pila/Stack.cpp
+iostream
+-
+string
+-
+Stack.h
+C:/Users/ASUS/CLionProjects/ED1Pila/Stack.h
+
+C:/Users/ASUS/CLionProjects/ED1Pila/Stack.h
+
+C:/Users/ASUS/CLionProjects/ED1Pila/main.cpp
+iostream
+-
+stack.h
+C:/Users/ASUS/CLionProjects/ED1Pila/stack.h
+string
+-
+conio.h
+-
+
+C:/Users/ASUS/CLionProjects/ED1Pila/stack.h
+
